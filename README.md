@@ -4,12 +4,14 @@
 </div>
  </b> <br><br> Hello, Devs!! ✨
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/125324142/229961407-51cf88b7-80ac-4af0-a160-fe3bde4d70a8.png" width="500px" />
+<div align="left">
+<img src="https://user-images.githubusercontent.com/125324142/229961407-51cf88b7-80ac-4af0-a160-fe3bde4d70a8.png" width="400px" />
 </div>
 
 
-<p align="center"> ## 🌱 Atualmente estou aprendendo: </p>
+ 
+ ## 🌱 Atualmente estou aprendendo:
+
 
 
 <div align="center">
@@ -22,9 +24,15 @@
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaNdO&layout=compact&langs_count=7&theme=dracula"/> <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MarianaNdO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
  
- <img src="<img src="https://desblogada.files.wordpress.com/2021/05/kaka-cordovil-java-developer-2.gif" width="700px" />
-</div>" width="700px" />
+ <div align="center">
+<h2>Enjoy your ride!</h2>
+  
+ ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966](https://user-images.githubusercontent.com/125324142/229968247-e0da88c2-0350-4f4c-928d-ad47b1598d65.gif)
+  
+ ![peachcat-new](https://user-images.githubusercontent.com/125324142/229968613-df38a191-d3a4-4267-b2b5-fac6b6633305.gif)
+
 </div>
+
   <!--
 **MarianaNdO/MarianaNdO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
