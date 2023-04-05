@@ -5,6 +5,10 @@ var nome = input_nome.value
 
 ## nome =  <b> Mariana Nascimento de Oliveira </b> <br><br> Hello, Devs!! ✨
 
+<div align="center">
+<img src="https://github.com/MarianaNdO/MarianaNdO/issues/1#issue-1654805634" width="700px" />
+</div>
+
 
 <!--
 **MarianaNdO/MarianaNdO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
