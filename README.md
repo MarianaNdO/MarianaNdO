@@ -9,7 +9,7 @@
 </div>
 
 
-## 🌱 Atualmente estou aprendendo:
+<p align="center"> ## 🌱 Atualmente estou aprendendo: </p>
 
 
 <div align="center">
@@ -21,7 +21,10 @@
 <a href="https://github.com/MarianaNdO">
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaNdO&layout=compact&langs_count=7&theme=dracula"/> <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MarianaNdO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-  
+ 
+ <img src="<img src="https://desblogada.files.wordpress.com/2021/05/kaka-cordovil-java-developer-2.gif" width="700px" />
+</div>" width="700px" />
+</div>
   <!--
 **MarianaNdO/MarianaNdO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
