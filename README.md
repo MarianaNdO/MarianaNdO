@@ -9,6 +9,10 @@ var nome = input_nome.value
 <img src="https://github.com/MarianaNdO/MarianaNdO/issues/1#issue-1654805634" width="700px" />
 </div>
 
+<div align="center">
+<h2>Let's code!!!</h2>
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400px" />
+</div>
 
 <!--
 **MarianaNdO/MarianaNdO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -33,7 +37,7 @@ Here are some ideas to get you started:
 
 <div>
 <a href="https://github.com/MarianaNdO">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaNdO&layout=compact&langs_count=7&theme=dracula"/><img height="160em" src="https://github-readme-stats.vercel.app/api?username=MarianaNdO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaNdO&layout=compact&langs_count=7&theme=dracula"/><img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarianaNdO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-![Snake animation](https://github.com/MarianaNdO/MarianaNdO/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
