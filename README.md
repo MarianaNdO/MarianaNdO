@@ -38,18 +38,17 @@
 ## 💡 Controle de versões:
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/>
-
 </div>
 <br>
 <br>
 
-
-<div>
+## 
+<div align="center" gap="5%">
 <a href="https://github.com/MarianaNdO">
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaNdO&layout=compact&langs_count=7&theme=dracula"/> <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MarianaNdO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
  
- <div align="center">
+<div align="center">
 <h2>Enjoy your ride!</h2>
   
  ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966](https://user-images.githubusercontent.com/125324142/229968247-e0da88c2-0350-4f4c-928d-ad47b1598d65.gif)
