@@ -1,6 +1,6 @@
-💌 var nome = input_nome.value
+💌 var name = input_name.value
 
-## nome =  <b> Mariana Nascimento de Oliveira ...(*￣０￣)ノ
+## name =  <b> Mariana Nascimento de Oliveira ...(*￣０￣)ノ
 </div>
  </b> <br><br> Hello, Devs!! ✨
 
