@@ -27,15 +27,7 @@
 <br>
 <br>
 
-## 💻 Sistemas Operacionais:
-<div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"  width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="60" height="60"/>
-</div>
-<br>
-<br>
-
-## 💡 Controle de versões:
+## 💻 Controle de versões:
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/>
 </div>
