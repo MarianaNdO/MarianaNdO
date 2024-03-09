@@ -23,7 +23,7 @@
 
 ## 🌱 Aprendendo:
 <div align="center">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="60" height="60"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="80" height="80"/>
         
 </div>
 <br>
