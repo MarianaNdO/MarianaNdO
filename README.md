@@ -1,6 +1,8 @@
-💌 var name = input_name.value
+💌 String name = dev.getName();
 
-## name =  <b> Mariana Nascimento de Oliveira ...(*￣０￣)ノ
+  System.out.println(name);
+  
+##  <b> Mariana Nascimento de Oliveira ...(*￣０￣)ノ
 </div>
  </b> <br><br> Hello, Devs!! ✨
 
@@ -10,7 +12,7 @@
 
 
  
- ## 💬 Linguagens:
+ ## 💬 Languages:
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="60" height="60" />
@@ -21,7 +23,7 @@
 <br>
 <br>
 
-## 🌱 Aprendendo:
+## 🌱 Learning:
 <div align="center">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="80" height="80"/>
         
@@ -29,7 +31,7 @@
 <br>
 <br>
 
-## 💻 Controle de versões:
+## 💻 Version Control:
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/>
 </div>
