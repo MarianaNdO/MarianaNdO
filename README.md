@@ -41,11 +41,7 @@
 <br>
 <br>
 
-## 
-<div align="center">
-<a href="https://github.com/MarianaNdO">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaNdO&layout=compact&langs_count=7&theme=dracula"/> <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MarianaNdO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+
  
 <div align="center">
 <h2>Enjoy your ride!</h2>
@@ -54,6 +50,11 @@
   
  ![peachcat-new](https://user-images.githubusercontent.com/125324142/229968613-df38a191-d3a4-4267-b2b5-fac6b6633305.gif)
 
+</div>
+## 
+<div align="center">
+<a href="https://github.com/MarianaNdO">
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaNdO&layout=compact&langs_count=7&theme=dracula"/> <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MarianaNdO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 <picture>
