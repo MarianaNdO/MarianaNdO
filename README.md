@@ -13,37 +13,36 @@
 </div>
 
 
- 
- <b> 💬🌱 Languages: </b>
+ <br>
+ <b> 💬 Languages: </b>
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" height="30"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="30" height="30" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  width="30" height="30" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="40" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="35" height="35"/>
           
  </div>
 
 <div>
+  <br>
   <b> 💻 Connect with me: </b>
   <div>
     <a href="https://www.linkedin.com/in/mariana-nascimento-de-oliveira/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30" />
     </a>
   </div>
 </div>
-
-<div>
-  <h2>Enjoy your ride!</h2>
-  <div style="display: flex; justify-content: space-between;">
+<br>
+<div style="width: 100%;">
+  <h2>🌱 Enjoy your ride!</h2>
+  <div style="display: flex; justify-content: space-between; width: 100%">
   <div style="width: 50%;">
-    <!-- Bandeira do Brasil -->
     <img src="https://flagcdn.com/16x12/br.png" alt="Brazil Flag" width="16" height="12">
     <p align="left">
       Atualmente, estou matriculada no curso de Análise e Desenvolvimento de Sistemas na SPTech (São Paulo Tech School) e possuo um diploma técnico em Administração pela ETEC (Escola Técnica Estadual) Getúlio Vargas. Tenho grande interesse tanto em front-end quanto em back-end, e minhas principais habilidades estão em Java, CSS e JavaScript.
     </p>
   </div>
   <div style="width: 50%;">
-    <!-- Bandeira da Inglaterra -->
     <img src="https://flagcdn.com/16x12/gb.png" alt="England Flag" width="16" height="12">
     <p align="right">
       Actually, I'm studying Analysis and Systems Development at SPTech (São Paulo Tech School) and have a technical diploma in Administration from ETEC (State Technical School) Getúlio Vargas. I'm really into both front-end and back-end stuff, and I'm pretty good with Java, CSS, and JavaScript.
