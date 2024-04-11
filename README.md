@@ -13,37 +13,22 @@
 
 
  
- <b> 💬 Languages: </b>
+ <b> 💬🌱 Languages: </b>
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" height="30"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="30" height="30" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  width="30" height="30" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="40" height="40"/>
           
  </div>
- 
-<br>
-<br>
-
-<b> 🌱 Learning: </b>
-<div align="center">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="40" height="40"/>
-        
-</div>
-<br>
-<br>
 
 <b> 💻 Connect with me: </b>
-<div align="center">
+<div>
 <a link rel="stylesheet" href="https://www.linkedin.com/in/mariana-nascimento-de-oliveira/">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40" />
           
 </div>
-<br>
-<br>
-
-
- 
-<div align="center">
+<div>
   <h2>Enjoy your ride!</h2>
   <div style="display: flex; justify-content: space-between;">
     <div style="text-align: left;">
