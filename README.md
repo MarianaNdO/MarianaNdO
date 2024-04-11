@@ -14,7 +14,7 @@
 
  
  <b> 💬🌱 Languages: </b>
-<div align="center">
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" height="30"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="30" height="30" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  width="30" height="30" />
@@ -31,19 +31,20 @@
 <div>
   <h2>Enjoy your ride!</h2>
   <div style="display: flex; justify-content: space-between;">
-    <div style="text-align: left;">
-      <img src="https://flagcdn.com/16x12/br.png" alt="Brazil Flag"><br>
-      <p>
-        Atualmente, estou matriculada no curso de Análise e Desenvolvimento de Sistemas na SPTech (São Paulo Tech School) e possuo um diploma técnico em Administração pela ETEC (Escola Técnica Estadual) Getúlio Vargas. Tenho grande interesse tanto em front-end quanto em back-end, e minhas principais habilidades estão em Java, CSS e JavaScript.
-      </p>
-    </div>
-    <div style="text-align: right;">
-      <img src="https://flagcdn.com/16x12/gb.png" alt="England Flag"><br>
-      <p>
-        Actually, I'm studying Analysis and Systems Development at SPTech (São Paulo Tech School) and have a technical diploma in Administration from ETEC (State Technical School) Getúlio Vargas. I'm really into both front-end and back-end stuff, and I'm pretty good with Java, CSS, and JavaScript.
-      </p>
-    </div>
+  <div style="width: 50%;">
+    <!-- Texto em português -->
+    <p>
+      Atualmente, estou matriculada no curso de Análise e Desenvolvimento de Sistemas na SPTech (São Paulo Tech School) e possuo um diploma técnico em Administração pela ETEC (Escola Técnica Estadual) Getúlio Vargas. Tenho grande interesse tanto em front-end quanto em back-end, e minhas principais habilidades estão em Java, CSS e JavaScript.
+    </p>
   </div>
+  <div style="width: 50%;">
+    <!-- Texto em inglês -->
+    <p>
+      Actually, I'm studying Analysis and Systems Development at SPTech (São Paulo Tech School) and have a technical diploma in Administration from ETEC (State Technical School) Getúlio Vargas. I'm really into both front-end and back-end stuff, and I'm pretty good with Java, CSS, and JavaScript.
+    </p>
+  </div>
+</div>
+
 </div>
   
   <div align="left" width="20">
