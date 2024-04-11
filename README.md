@@ -46,10 +46,14 @@
 <div align="center">
 <h2>Enjoy your ride!</h2>
 <div align="left">
- <p>
+ <p align = "left">
+   ![Brazil Flag](https://flagcdn.com/256x192/br.png)<br>
 Atualmente, estou matriculada no curso de Análise e Desenvolvimento de Sistemas na SPTech (São Paulo Tech School) e possuo um diploma técnico em Administração pela ETEC (Escola Técnica Estadual) Getúlio Vargas. Tenho grande interesse tanto em front-end quanto em back-end, e minhas principais habilidades estão em Java, CSS e JavaScript
  </p>
-  <div class="icons8-great-britain">I'm studying Analysis and Systems Development at SPTech (São Paulo Tech School) and have a technical diploma in Administration from ETEC (State Technical School) Getúlio Vargas. I'm really into both front-end and back-end stuff, and I'm pretty good with Java, CSS, and JavaScript.</div>
+  
+  <p align="right">
+    ![England Flag](https://flagcdn.com/256x192/gb.png) <br>
+    Actually, I'm studying Analysis and Systems Development at SPTech (São Paulo Tech School) and have a technical diploma in Administration from ETEC (State Technical School) Getúlio Vargas. I'm really into both front-end and back-end stuff, and I'm pretty good with Java, CSS, and JavaScript.</p>
   </div>
   
   <div align="right" width="40">
