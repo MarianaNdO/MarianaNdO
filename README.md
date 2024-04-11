@@ -3,9 +3,9 @@
   System.out.println(name);
 
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&duration=5010&pause=1000&color=F756A8&random=false&width=435&lines=Mariana+Nascimento+%3C+%2F+3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&duration=5010&pause=1000&color=F756A8&vCenter=true&random=false&width=435&lines=Mariana+Nascimento+%3C+%2F+3)](https://git.io/typing-svg)
 </div>
- </b> <br><br> Hello, Devs!! ✨
+ </b> <br> Hello, Devs!! ✨
 
 <div align="left">
 <img src="https://user-images.githubusercontent.com/125324142/229961407-51cf88b7-80ac-4af0-a160-fe3bde4d70a8.png" width="400px" />
