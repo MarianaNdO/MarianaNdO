@@ -40,7 +40,7 @@
   <div style="display: flex; justify-content: space-between; width: 100%">
   <div style="width: 50%;">
     <img src="https://flagcdn.com/16x12/br.png" alt="Brazil Flag" width="16" height="12">
-    <p">
+    <p>
       Atualmente, estou matriculada no curso de Análise e Desenvolvimento de Sistemas na SPTech (São Paulo Tech School) e possuo um diploma técnico em Administração pela ETEC (Escola Técnica Estadual) Getúlio Vargas.<br> Tenho grande interesse tanto em front-end quanto em back-end, e minhas principais habilidades estão em Java, CSS e JavaScript.
     </p>
   </div>
