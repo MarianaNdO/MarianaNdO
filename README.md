@@ -2,7 +2,7 @@
 
   System.out.println(name);
   
-##  <b> Mariana Nascimento de Oliveira ...(*￣０￣)ノ
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=5010&pause=1000&color=F756A8&random=false&width=435&lines=Mariana+Nascimento+de+Oliveira+...(*%EF%BF%A3%EF%BC%90%EF%BF%A3)%E3%83%8E" alt="Typing SVG" /></a>
 </div>
  </b> <br><br> Hello, Devs!! ✨
 
