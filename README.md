@@ -55,14 +55,17 @@
 </div>
 
   
-  <div align="left" width="20">
+  <div align="center" width="20">
     
  ![peachcat-new](https://user-images.githubusercontent.com/125324142/229968613-df38a191-d3a4-4267-b2b5-fac6b6633305.gif)
  
 </div>
-</div align="center">
-
+</div>
+<div align="center" >
+  
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaNdO)
+
+</div>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarianaNdO/MarianaNdO/output/github-contribution-grid-snake-dark.svg">
