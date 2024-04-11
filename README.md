@@ -8,6 +8,7 @@
  </b> <br> Hello, Devs!! ✨
 
 <div align="left">
+  
 <img src="https://user-images.githubusercontent.com/125324142/229961407-51cf88b7-80ac-4af0-a160-fe3bde4d70a8.png" width="200px" />
 </div>
 
@@ -22,33 +23,38 @@
           
  </div>
 
-<b> 💻 Connect with me: </b>
 <div>
-<a link rel="stylesheet" href="https://www.linkedin.com/in/mariana-nascimento-de-oliveira/">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40" />
-          
+  <b> 💻 Connect with me: </b>
+  <div>
+    <a href="https://www.linkedin.com/in/mariana-nascimento-de-oliveira/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" />
+    </a>
+  </div>
 </div>
+
 <div>
   <h2>Enjoy your ride!</h2>
   <div style="display: flex; justify-content: space-between;">
   <div style="width: 50%;">
-    <!-- Texto em português -->
+    <!-- Bandeira do Brasil -->
+    <img src="https://flagcdn.com/256x192/br.png" alt="Brazil Flag">
     <p>
       Atualmente, estou matriculada no curso de Análise e Desenvolvimento de Sistemas na SPTech (São Paulo Tech School) e possuo um diploma técnico em Administração pela ETEC (Escola Técnica Estadual) Getúlio Vargas. Tenho grande interesse tanto em front-end quanto em back-end, e minhas principais habilidades estão em Java, CSS e JavaScript.
     </p>
   </div>
   <div style="width: 50%;">
-    <!-- Texto em inglês -->
+    <!-- Bandeira da Inglaterra -->
+    <img src="https://flagcdn.com/256x192/gb.png" alt="England Flag">
     <p>
       Actually, I'm studying Analysis and Systems Development at SPTech (São Paulo Tech School) and have a technical diploma in Administration from ETEC (State Technical School) Getúlio Vargas. I'm really into both front-end and back-end stuff, and I'm pretty good with Java, CSS, and JavaScript.
     </p>
   </div>
 </div>
-
+  </div>
 </div>
+
   
   <div align="left" width="20">
-    
  ![peachcat-new](https://user-images.githubusercontent.com/125324142/229968613-df38a191-d3a4-4267-b2b5-fac6b6633305.gif)
  
 </div>
