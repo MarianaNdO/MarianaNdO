@@ -34,9 +34,9 @@
 
 # 💻 Connect with me:
 <div align="center">
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=F756A8FF&color:FFF)](mailto:mariana.nascimento230@hotmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=F756A8FF&color:FFF)]([https://www.linkedin.com/in/mari4souza/](https://www.linkedin.com/in/mariana-nascimento-de-oliveira/))
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=F756A8FF&color:FFF)](https://www.instagram.com/choc0.mari/)
+<a <link rel="stylesheet" href="https://www.linkedin.com/in/mariana-nascimento-de-oliveira/">>
+            <i class="devicon-linkedin-plain"></i>
+</a>
 </div>
 <br>
 <br>
