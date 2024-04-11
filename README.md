@@ -34,11 +34,11 @@
 
 # 💻 Connect with me:
 <div align="center">
+# 💻 Connect with me:
+<div align="center">
 <a <link rel="stylesheet" href="https://www.linkedin.com/in/mariana-nascimento-de-oliveira/">>
-            
-            <i class="devicon-linkedin-plain-wordmark colored" width="40" height="40"></i>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="80" height="80" />
           
-</a>
 </div>
 <br>
 <br>
