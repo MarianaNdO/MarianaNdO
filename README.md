@@ -35,7 +35,9 @@
 # 💻 Connect with me:
 <div align="center">
 <a <link rel="stylesheet" href="https://www.linkedin.com/in/mariana-nascimento-de-oliveira/">>
-            <i class="devicon-linkedin-plain"></i>
+            
+            <i class="devicon-linkedin-plain-wordmark colored" width="40" height="40"></i>
+          
 </a>
 </div>
 <br>
