@@ -8,33 +8,35 @@
  </b> <br> Hello, Devs!! ✨
 
 <div align="left">
-<img src="https://user-images.githubusercontent.com/125324142/229961407-51cf88b7-80ac-4af0-a160-fe3bde4d70a8.png" width="400px" />
+<img src="https://user-images.githubusercontent.com/125324142/229961407-51cf88b7-80ac-4af0-a160-fe3bde4d70a8.png" width="200px" />
 </div>
 
 
  
- ## 💬 Languages:
+ # 💬 Languages:
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="60" height="60" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  width="60" height="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" height="30"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="30" height="30" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  width="30" height="30" />
           
  </div>
  
 <br>
 <br>
 
-## 🌱 Learning:
+# 🌱 Learning:
 <div align="center">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="80" height="80"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="40" height="40"/>
         
 </div>
 <br>
 <br>
 
-## 💻 Version Control:
+# 💻 Connect with me:
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/>
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=F756A8FF&color:FFF)](mailto:mariana.nascimento230@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=F756A8FF&color:FFF)]([https://www.linkedin.com/in/mari4souza/](https://www.linkedin.com/in/mariana-nascimento-de-oliveira/))
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=F756A8FF&color:FFF)](https://www.instagram.com/choc0.mari/)
 </div>
 <br>
 <br>
