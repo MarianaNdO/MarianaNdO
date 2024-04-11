@@ -5,16 +5,17 @@
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&duration=5010&pause=1000&color=F756A8&vCenter=true&random=false&width=435&lines=Mariana+Nascimento+%3C+%2F+3)](https://git.io/typing-svg)
 </div>
- </b> <br> Hello, Devs!! ✨
+ </b> <br> Hello, Devs!! ✨<br>
 
 <div align="left">
-  
+
 <img src="https://user-images.githubusercontent.com/125324142/229961407-51cf88b7-80ac-4af0-a160-fe3bde4d70a8.png" width="200px" />
 </div>
 
 
  <br>
  <b> 💬 Languages: </b>
+ <br>
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" height="30"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="30" height="30" />
@@ -26,6 +27,7 @@
 <div>
   <br>
   <b> 💻 Connect with me: </b>
+  <br>
   <div>
     <a href="https://www.linkedin.com/in/mariana-nascimento-de-oliveira/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30" />
@@ -34,7 +36,7 @@
 </div>
 <br>
 <div style="width: 100%;">
-  <h2>🌱 Enjoy your ride!</h2>
+  <h2>🌱 Enjoy your ride!</h2> <br>
   <div style="display: flex; justify-content: space-between; width: 100%">
   <div style="width: 50%;">
     <img src="https://flagcdn.com/16x12/br.png" alt="Brazil Flag" width="16" height="12">
@@ -58,11 +60,11 @@
  ![peachcat-new](https://user-images.githubusercontent.com/125324142/229968613-df38a191-d3a4-4267-b2b5-fac6b6633305.gif)
  
 </div>
-</div>
+</div align="center">
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaNdO)
 
-<picture>
+<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarianaNdO/MarianaNdO/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarianaNdO/MarianaNdO/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MarianaNdO/MarianaNdo/output/github-contribution-grid-snake.svg">
