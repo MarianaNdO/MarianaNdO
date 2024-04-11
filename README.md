@@ -45,11 +45,11 @@
  
 <div align="center">
 <h2>Enjoy your ride!</h2>
-<div align="left" width ="50%>
+<div align="left">
  ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966](https://user-images.githubusercontent.com/125324142/229968247-e0da88c2-0350-4f4c-928d-ad47b1598d65.gif)
   </div>
   
-  <div align="right" width ="50%">
+  <div align="right">
   
  ![peachcat-new](https://user-images.githubusercontent.com/125324142/229968613-df38a191-d3a4-4267-b2b5-fac6b6633305.gif)
 </div>
