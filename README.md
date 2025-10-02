@@ -41,13 +41,13 @@
   <div style="width: 50%;">
     <img src="https://flagcdn.com/16x12/br.png" alt="Brazil Flag" width="16" height="12">
     <p>
-      Atualmente, estou matriculada no curso de Análise e Desenvolvimento de Sistemas na SPTech (São Paulo Tech School) e possuo um diploma técnico em Administração pela ETEC (Escola Técnica Estadual) Getúlio Vargas.<br> Tenho grande interesse tanto em front-end quanto em back-end, e minhas principais habilidades estão em Java, React e JavaScript.
+      Formada em Análise e Desenvolvimento de Sistemas na SPTech (São Paulo Tech School) e possuo um diploma técnico em Administração pela ETEC (Escola Técnica Estadual) Getúlio Vargas.<br> Tenho grande interesse em atuação backend, minhas principais habilidades estão em Java Spring Boot.
     </p>
   </div>
   <div style="width: 50%;">
     <img src="https://flagcdn.com/16x12/gb.png" alt="England Flag" width="16" height="12">
     <p>
-      Actually, I'm studying Analysis and Systems Development at SPTech (São Paulo Tech School) and have a technical diploma in Administration from ETEC (State Technical School) Getúlio Vargas. <br> I'm really into both front-end and back-end stuff, and I'm pretty good with Java, React, and JavaScript.
+      Graduated in Analysis and Systems Development at SPTech (São Paulo Tech School) and have a technical diploma in Administration from ETEC (State Technical School) Getúlio Vargas. <br> I'm really into  and back-end stuff, and my main hability is Java Springboot.
     </p>
   </div>
 </div>
